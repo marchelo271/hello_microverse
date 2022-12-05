@@ -1,28 +1,47 @@
 First Project
 
 📖 About the Project
+
 🛠 Built With
+
 Tech Stack
+
 Key Features
+
 🚀 Live Demo
+
 💻 Getting Started
+
 Setup
+
 Prerequisites
+
 Install
+
 Usage
+
 Run tests
+
 Deployment
+
 👥 Authors
+
 🔭 Future Features
+
 🤝 Contributing
+
 ⭐️ Show your support
+
 🙏 Acknowledgements
+
 ❓ FAQ
+
 📝 License
-📖 [Hello microverse]
+
+📖 HELLO MICROVERSE
 
 
-[Hello microverse] is a project to show git and github sills 
+[Hello microverse] is a project to show git and github sKills 
 besides using github flow and setup linters in the project 
 
 🛠 Built With
@@ -118,4 +137,3 @@ Yes, linters are set up already in project hello-microverse
 📝 License
 This project is MIT licensed.
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
