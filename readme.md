@@ -1,71 +1,53 @@
-First Project
-
+logo
+Microverse README Template
+📗 Table of Contents
 📖 About the Project
-
 🛠 Built With
-
 Tech Stack
-
 Key Features
-
 🚀 Live Demo
-
 💻 Getting Started
-
 Setup
-
 Prerequisites
-
 Install
-
 Usage
-
 Run tests
-
 Deployment
-
 👥 Authors
-
 🔭 Future Features
-
 🤝 Contributing
-
 ⭐️ Show your support
-
 🙏 Acknowledgements
-
 ❓ FAQ
-
 📝 License
+📖 [your_project_name]
+Describe your project in 1 or 2 sentences.
 
-📖 HELLO MICROVERSE
-
-
-[Hello microverse] is a project to show git and github sKills 
-besides using github flow and setup linters in the project 
+[your_project__name] is a...
 
 🛠 Built With
-js 
-css
-linters
+Tech Stack
+Describe the tech stack and include only the relevant sections that apply to your project.
 
 Client
 Server
 Database
 Key Features
+Describe between 1-3 key features of the application.
 
-
-[Linters]
-[github_flow]
-
+[key_feature_1]
+[key_feature_2]
+[key_feature_3]
+(back to top)
 
 🚀 Live Demo
-file:///C:/Users/mar_c/OneDrive/Documents/Chelo%20personal/Microverse/Modulo1/P1_hello/index.html
+Add a link to your deployed project.
 
-
+Live Demo Link
+(back to top)
 
 💻 Getting Started
-Check the files to setup linters in your projects and check the branches to verify the github flow.
+Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -76,64 +58,76 @@ Setup
 Clone this repository to your desired folder:
 
 Install
-Install this project with visual studio code 
+Install this project with:
 
 Usage
 To run the project, execute the following command:
- Ctrl+Mayus+D
 
 Run tests
 To run tests, run the following command:
- Ctrl+Mayus+D
 
+Deployment
+You can deploy this project using:
 
+(back to top)
 
 👥 Authors
 Mention all of the collaborators of this project.
 
-👤 Erick Peñaloza
+👤 Author1
 
 GitHub: @githubhandle
 Twitter: @twitterhandle
 LinkedIn: LinkedIn
+👤 Author2
 
+GitHub: @githubhandle
+Twitter: @twitterhandle
+LinkedIn: LinkedIn
+(back to top)
 
 🔭 Future Features
+Describe 1 - 3 features you will add to the project.
 
-
- [Welcome_page]
- 
+ [new_feature_1]
+ [new_feature_2]
+ [new_feature_3]
+(back to top)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-
+(back to top)
 
 ⭐️ Show your support
+Write a message to encourage readers to support your project
 
+If you like this project...
 
-If you like this project get it for free by sending a request to pull 
-
-
+(back to top)
 
 🙏 Acknowledgments
+Give credit to everyone who inspired your codebase.
 
-I would like to thank to microverse for the opportunity of includes me in this project 
+I would like to thank...
+
+(back to top)
 
 ❓ FAQ
 Add at least 2 questions new developers would ask when they decide to use your project.
 
-1¿ Is this project available or it is private? 
+[Question_1]
 
-A.- It is public so you can clone the repository
+[Answer_1]
+[Question_2]
 
-2 ¿Is this project to help me with linter setup
-
-Yes, linters are set up already in project hello-microverse
-
+[Answer_2]
+(back to top)
 
 📝 License
 This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
 
